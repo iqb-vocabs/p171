@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Mathematik Sek I - Aufgabe"
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p171/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p171/master/unit.json)
+ID of profile: [https://w3id.org/iqb/p171/unit/](https://w3id.org/iqb/p171/unit/)
 
 ### Stimulus
 
@@ -36,7 +36,7 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p171/master/unit.js
 
 ## Profil "IQB Mathematik Sek I - Item"
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p171/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p171/master/item.json)
+ID of profile: [https://w3id.org/iqb/p171/item/](https://w3id.org/iqb/p171/item/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
