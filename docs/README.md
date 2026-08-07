@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Mathematik Sek I - Aufgabe"
 
-ID of profile: [https://w3id.org/iqb/p171/unit/](https://w3id.org/iqb/p171/unit/)
+ID of profile: `https://w3id.org/iqb/p171/unit/`
 
 ### Stimulus
 
@@ -36,7 +36,7 @@ ID of profile: [https://w3id.org/iqb/p171/unit/](https://w3id.org/iqb/p171/unit/
 
 ## Profil "IQB Mathematik Sek I - Item"
 
-ID of profile: [https://w3id.org/iqb/p171/item/](https://w3id.org/iqb/p171/item/)
+ID of profile: `https://w3id.org/iqb/p171/item/`
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
